@@ -1,8 +1,11 @@
-# React + Vite
+Probably the most efficient, readable, and quality code for pagination you'll ever find. 
+This component covers essential good practices and logic for handling pagination in React without unnecessary complexity. 
+No Tailwind CSS or styling libraries are used here for better focus on the functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Efficient data fetching
+- Simple, intuitive pagination
+- State management
+- Pagination boundaries
+- Optimized rendering
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Go through it, and don't forget to star the repo if you find it helpful! 💕
